@@ -1,0 +1,360 @@
+Location	Latitude	Longitude
+Adamello, Mte.,	46°09'N	103°0'E
+Adda	45°08'N	09°53'E
+Adige	45°09'N	12°20'E
+Adrano	37°40'N	14°50'E
+Agri	40°13'N	14°4'E
+Agrigento	37°19'N	13°34'E
+Alba	44°42'N	08°02'E
+Alcamo	37°59'N	12°55'E
+Alessandria	44°54'N	08°37'E
+Alghero	40°33'N	08°19'E
+Altamura	40°49'N	16°33'E
+Amaro, Mte.,	42°05'N	14°05'E
+Amiata, Mte.,	42°53'N	11°37'E
+Ancona	43°38'N	13°30'E
+Andria	41°13'N	16°17'E
+Anzio	41°27'N	12°37'E
+Aosta	45°45'N	07°20'E
+Apennines/Appennini	44°00'N	10°00'E
+Appennini	44°00'N	10°00'E
+Aprilia	41°36'N	12°39'E
+Arbatax	39°56'N	09°42'E
+Arezzo	43°25'N	11°53'E
+Argentario, Mte.,	42°24'N	11°09'E
+Arno	43°41'N	10°17'E
+Ascoli Piceno	42°51'N	13°34'E
+Asinara	41°04'N	08°16'E
+Asinara, G. del',	41°00'N	08°30'E
+Assisi	43°04'N	12°37'E
+Asti	44°54'N	08°12'E
+Augusta	37°13'N	15°13'E
+Avellino	40°54'N	14°47'E
+Aversa	40°58'N	14°12'E
+Avezzano	42°02'N	13°25'E
+Avola	36°56'N	15°07'E
+Bagheria	38°05'N	13°30'E
+Barcellona Pozzo di Gotto	38°09'N	15°13'E
+Bari	41°08'N	16°51'E
+Barletta	41°19'N	16°17'E
+Bassano del Grappa	45°46'N	11°44'E
+Battipaglia	40°37'N	14°58'E
+Belluno	46°09'N	12°13'E
+Benevento	41°08'N	14°45'E
+Bergamo	45°41'N	09°43'E
+Biella	45°34'N	08°03'E
+Bolongna	44°29'N	11°20'E
+Bolsena, L. di	42°36'N	11°56'E
+Bolzano	46°31'N	11°22'E
+Bosa	40°18'N	08°30'E
+Bozen/Bolzano	46°31'N	11°22'E
+Bra	44°42'N	07°51'E
+Bracciano, L. di	42°07'N	12°14'E
+Brecia	45°33'N	10°15'E
+Bressanone	46°43'N	11°39'E
+Brindisi	40°39'N	17°55'E
+Brixen/Bressanone	46°43'N	11°39'E
+Busto Arsizio	45°37'N	08°51'E
+Cagliari	39°13'N	09°07'E
+Cagligari, G. di	39°08'N	09°11'E
+Calabria	39°00'N	16v30'E
+Caltagirone	37°14'N	14°31'E
+Caltanissetta	37°29'N	14°04'E
+Campania	41°00'N	14°30'E
+Campobasso	41°34'N	14°39'E
+Canicatti	37°21'N	13°51'E
+Capraia	43°02'N	09°50'E
+Capri	40°33'N	14°14'E
+Carbonara, C.	39°06'N	09°31'E
+Carbonia	39°10'N	08°30'E
+Caronie/Nebrodi, Monti	37°54'N	14°35'E
+Carpi	44°47'N	10°53'E
+Carrara	44°05'N	10°06'E
+Cascina	43°41'N	10°33'E
+Caserta	41°04'N	14°20'E
+Cassino	41°30'N	13°49'E
+Castellammare di Stabia	40°42'N	14°29'E
+Castelvetrano	37°41'N	12°47'E
+Catania	37°30'N	15°06'E
+Catanzaro	38°54'N	16°35'E
+Cefalu	38°02'N	14°01'E
+Cerignola	41°17'N	15°53'E
+Cesena	44°08'N	12°15'E
+Cetraro	39v31'N	15°55'E
+Chiavari	44°19'N	09°19'E
+Chiavenna	46°19'N	09°24'E
+Chiese	45°08'N	10°25'E
+Chieti	42°21'N	14°10'E
+Chioggia	45°13'N	12°17'E
+Chiusi	43°01'N	11°57'E
+Chivasso	45°11'N	07°53'E
+Clmone, Mte.	44°12'N	10°42'E
+Citta di Castello	43°27'N	12°14'E
+Civitanova Marche	43°18'N	13°44'E
+Civitavecchia	42°06'N	11°48'E
+Collina, Passo di	44°02'N	10°56'E
+Comacchio	44°42'N	12°11'E
+Comino, C.	40°32'N	09°49'E
+Como	45°47'N	09°05'E
+Como, Lago di	46°00'N	09°11'E
+Conegliano	45°53'N	12°18'E
+Corato	41°09'N	16°25'E
+Corigliano Calabro	39°36'N	16°31'E
+Cosenza	39°18'N	16°15'E
+Crema	45°22'N	09°41'E
+Cremona	45°07'N	10°02'E
+Crotone	39°05'N	17°08'E
+Cuneo	44°23'N	07°32'E
+Dolomites/Dolomiti	46°23'N	11°51'E
+Dolomiti	36°20'S	57°40'W
+Domodossola	46°07'N	08°17'E
+Dora Baltea	45°11'N	08°03'E
+Egadi, Isole	37°55'N	12°16'E
+Elba	42°46'N	10°17'E
+Enna	37°34'N	14°16'E
+Eolie, Is.	38°30'N	14°57'E
+Erice	38°02'N	12°35'E
+Etna	37°50'N	14°55'E
+Fabriano	43&deg20'N	12°54'E
+Fanza	44°17'N	11°53'E
+Falconara Maritima	43°37'N	13°24'E
+Falcone, C. del	40°58'N	08°12'E
+Fano	43°50'N	13°01'E
+Fasano	40°50'N	17°22'E
+Favara	37°19'N	13°39'E
+Favignana	37°56'N	12°20'E
+Fermo	43°09'N	13°43'E
+Ferara	44°50'N	11°35'E
+Fiora	42°20'N	11°34'E
+Firenze	43°46'N	11°15'E
+Florence/Firenze	43°46'N	11°15'E
+Foggia	41°27'N	15°34'E
+Foligno	42°57'N	12°42'E
+Fondi	41°21'N	13°25'E
+Forli	44°13'N	12°03'E
+Formia	41°15'N	13°37'E
+Fossano	44°33'N	07°43'E
+Francavilla Fontana	40°32'N	17°35'E
+Frosinone	41°38'N	13°19'E
+Galatina	40°10'N	18°10'E
+Gallipoli/Galibolu	40°03'N	17°58'E
+Garda, L. di	45°40'N	10°41'E
+Gargano, Mte.	41°43'N	15°43'E
+Garigliano	41°13'N	13°45'E
+Gela	37°04'N	14°15'E
+Gennargentu, Mti. del	40°01'N	09°19'E
+Genoa/Genova	44°25'N	08°57'E
+Genova	44°25'N	08°57'E
+Genova, G. di	44°00'N	09°00'E
+Giarre	37°43'N	15°11'E
+Giglio	42°20'N	10°52'E
+Golfo Aranci	40°59'N	09°38'E
+Goriza	45°56'N	13°37'E
+Gran Paradiso	45°33'N	07°17'E
+Gran Sasso d' Italia	42°27'N	13°42'E
+Grosseto	42°46'N	11°08'E
+Guidonia-Montecelio	42°01'N	12°45'E
+Lesi	43°31'N	13°14'E
+Iglesias	39°19'N	08°32'E
+Imola	44°20'N	11°42'E
+Imperia	43°53'N	08°03'E
+Ischia	40°44'N	13°57'E
+Isernia	41°36'N	14°14'E
+Ispica	36°47'N	14°55'E
+Ivrea	45°28'N	07°52'E
+Jesi/lesi	43°31'N	13°14'E
+La Spezia	44°07'N	09°50'E
+Lanciano	42°14'N	14°23'E
+Lanusei	39°52'N	09°34'E
+L'Aquila	42°22'N	13°22'E
+Latina	41°28'N	12°52'E
+Latium/Lazio	42°10'N	12°30'E
+Lauria	40°02'N	15°50'E
+Lazio	42°10'N	12°30'E
+Lecce	40°23'N	18°11'E
+Lecco	45°51'N	09°23'E
+Leghorn/Livorno	20°22'S	116°55'E
+Legnago	52°25'N	20°50'E
+Lentini	37°17'N	150°00'E
+Licata	36°28'N	113°20'E
+
+Location	Latitude	Longitude
+Liguria	44°30'N	08°50'E
+Lipari	38°26'N	14°58'E
+Lipari, Is.Eolie, Is.	38°30'N	14°57'E
+Livorno	43°33'N	10°19'E
+Lodi	45°19'N	09°30'E
+Lombardia	45°40'N	09°30'E
+Lombardy=Lombardia	45°40'S	09°30'E
+Lucca	43°50'N	10°29'E
+Lugo	44°25'N	11°54'E
+Macerata	43°18'N	13°27'E
+Maddalena	41°16'N	09°23'E
+Maggiore, Lago	45°57'N	08°39'E
+Manfredonia	41°38'N	15°55'E
+Mantova	45°09'N	10°48'E
+Mantua/Mantova	45°09'N	10°48'E
+Martina France	40°42'N	17°20'E
+Massa	44°01'N	10°09'E
+Matera	40°40'N	16°36'E
+Mazara del Vallo	37°39'N	12°35'E
+Meran/Merano	46°40'N	11°09'E
+Merano	46°40'N	11°09'E
+Messina	38°11'N	15°34'E
+Messina Str. Di	38°15'N	15°35'E
+Milan/Milano	45°28'N	09°12'E
+Milano	45°25'N	09°12'E
+Milazzo	38°13'N	15°15'E
+Mira	45°25'N	12°08'E
+Modena	44°40'N	10°55'E
+Modica	36°52'N	14°46'E
+Molfetta	41°12'N	16°36'E
+Mondovi	44°23'N	07°49'E
+Mongibello/Etna	37°50'N	14°55'E
+Monopoli	40°57'N	17°18'E
+Monte Santu C.di	40°50'N	09°44'E
+Montecristo	42°20'N	10°19'E
+montesilvano	42°29'N	14°08'E
+Monza	45°35'N	09°16'E
+Naples/Napoli	40°50'N	14°15'E
+Napoli	40°50'N	14°15'E
+Nardo	40°11'N	18°02'E
+Nebrodi Monti	37°54'N	14°35'E
+Nicastro	38°59'N	16°19'E
+Nocera Inferiore	40°44'N	14°38'E
+Novara	45°28'N	08°38'E
+Novi Ligure	44°46'N	08°47'E
+Nuoro	40°20'N	09°20'E
+Ofanto	41°22'N	16°13'E
+Oglio	45°02'N	10°39'E
+Olbia	40°55'N	09°31'E
+Ombrone	42°42'N	11°05'E
+Orbetello	42°27'N	11°13'E
+Oristano	39°54'N	08°36'E
+Oristani G. di	39°50'N	08°29'E
+Ortles	46°31'N	10°33'E
+Orvieto	42°43'N	12°07'E
+ostuni	40°44'N	17°35'E
+Otranto	40°09'N	18°28'E
+Ortangto C. d'	40°07'N	18°30'E
+Otranto Str. Of	40°15'N	18°40'E
+Padova	45°25'N	11°53'E
+Padu/Padova	45°25N'N	11°53'E
+Palermo	38°07'N	13°22'E
+Pallanza/Verbania	45°56'N	08°33'E
+Palmas G. di	39°0'N	08°30'E
+Palmi	38°21'N	15°51'E
+Pantelleria	36350'S	11°57'E
+Parma	44°48'N	10°20'E
+Partinico	38°03'N	13°07'E
+Passero C.	36°41'N	15°10'E
+Paterno	37°34'N	14°54'E
+Pavia	45°07'N	09°08'E
+Pelagie Is	35°39'N	12°33'E
+Perugia	43°07'N	12°23'E
+Pesaro	43°54'N	12°55'E
+Pescara	42°28'N	14°13'E
+Picacenza	45°01'N	09°40'E
+Pianosa	42°35'N	10°05'E
+Piave	45°32'N	12°44'E
+Piedmont/Piemonte	45°0'N	08°0'E
+Piemonte	45°0'N	08°0'E
+Pinerolo	44°53'N	07°21'E
+Piombino	42°55'N	10°32'E
+Pisa	43°43'N	10°23'E
+Pistoia	43°55'N	10°54'E
+Platani	37°23'N	13°16'W
+Po	44°57'N	12°04'E
+Pomezia	41°40'N	12°30'E
+Pontine Is./Ponziane, Isole	40°55'N	12°57'E
+Ponziane, Isole	40°55'N	12°57'E
+Pordenone	45°57'N	12°39'E
+Porto Empedocle	37°17'N	13°32'E
+Porto Torres	40°50'N	08°24'E
+Portoferraio	42°48'N	10°20'E
+Portoscuso	39°12'N	08°24'E
+Potenza	40°38'N	15°48'E
+Pozzuoli	40°49'N	14°07'E
+Prato	43°53'N	11°06'E
+Putignano	40°51'N	17°07'E
+Quartu Sant Elena	39°15'N	09°10'E
+Ragusa	36°55'N	14°44'E
+Rapallo	44°21'N	09°14'E
+Ravenna	44°25'N	12°12'E
+Ravenna	44°25'N	12°12'E
+Reeggio di Calabria	38°06'N	15°39'E
+Reggio nell Emilia	44°43'N	10°36'E
+Reno	44°38'N	12°16'E
+Riva del Garda	45°53'N	10°50'E
+Riviera di Levante	44°15'N	9°30'E
+Riviera di Ponente	44°10'N	8°20'E
+Rivoli	45°03'N	7°31'E
+Rizzuto C.	38°53'N	17°05'E
+Roma	41°541'N	12°29'E
+Rome/Roma	41°54'N	12°29'E
+rosignano marittimo	43°24'N	10°28'E
+Rovigo	45°4'N	11°47'E
+Sala Consilina	40°23'N	15°36'E
+Salina	38°34'N	14°50'E
+Salso	37°6'N	13°57'E
+Salto	42°26'N	12°25'E
+Sambiase	38°58'N	16°17'E
+San Benedetto del Tronto	42°57'N	13°53'E
+San Pietro	39°8'N	8°17'E
+San Remo	43°49'N	7°46'E
+San Severo	41°41'N	15°23'E
+Sant Antioco	39°4'N	8°27'E
+Sardegna	40°0'N	9°0'E
+Sardinia/Sardegna	40°0'N	9°0'E
+Sassari	40°43'N	8°34'E
+Sassuolo	44°33'N	10°47'E
+Savona	44°17'N	8°30'E
+Scandicci	43°45'N	11°11'E
+Schio	45°43'N	11°21'E
+Sciacca	37°31'N	13°3'E
+Segesta	37°56'N	12°50'E
+Sele	40°29'N	14°56'E
+Senigallia	43°43'N	13°13'E
+Sinni	40°8'N	16°41'E
+Siracusa	37°4'N	15°17'E
+Soogono	40°1'N	9°6'E
+Spartivento C. Sard	38°53'N	8°50'E
+Spoleto	42°44'N	12°44'E
+Tanaro	44°55'N	8°40'E
+Terni	42°34'N	12°37'E
+Terracina	41°17'N	13°15'E
+Tevere	41°44'N	12°14'E
+Ticino	45°9'N	9°14'E
+Tirso	39°53'N	8°32'E
+Tivoli	41°58'N	12°45'E
+Torre del Greco	40°47'N	14°22'E
+Toscana	43°25'N	11°0'E
+Trani	41°17'N	16°25'E
+Trapani	38°1'N	12°29'E
+Trasimeno L.	43°8'N	102°33'E
+Trebbia	45°4'N	9°41'E
+Trento	46°4'N	11°8'E
+Trieste	45°40'N	13°46'E
+Turin/Torino	45°3'N	7°40'E
+Tuscany/Toscana	43°25'N	11°0'E
+Udine	46°3'N	13°14'E
+Varese	45°48'N	8°50'E
+Vasto	42°8'N	14°40'E
+Velletri	41°41'N	12°47'E
+Venezia	45°27'N	12°21'E
+Ventotene	40°47'N	13°25'E
+Verbania	45°56'N	8°33'E
+Vercelli	45°19'N	8°25'E
+Vesuvio	40°49'N	14°26'E
+Vesuvius Mt./Vesuvio	40°49'N	14°26'E
+Vettore Mte	42°49'N	13°16'E
+Vibo Valentia	38°40'N	16°6'E
+Vicenza	45°33'N	11°33'E
+Vigevano	45°19'N	8°51'E
+Viso Mte	44°38'N	7°5'E
+Viterbo	42°25'N	12°6'E
+Vittoria	36°57'N	14°32'E
+Voghera	44°59'N	9°1'E
+Volterra	43°24'N	10°51'E
+Volturno	41°1'N	13°55'E
+Vulcano	38°24'N	14°58'E
